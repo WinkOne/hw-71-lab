@@ -1,0 +1,7 @@
+.dishesHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.dishesHeader div h2 {
+    margin: 0;
+}
